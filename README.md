@@ -13,7 +13,7 @@ Import contract ABIs and create contracts instances as necassary in `scripts/sim
 
 Set the `accountsToUnlock` array and create signers as necessary in `scripts/simulate.ts`.
 
-Run the required simulations in `main`.
+Run the required simulations in `scripts/simulate.ts` `main`.
 
 ## Running
 Use `npx hardhat run scripts/simulate.ts` to execute the simulation
